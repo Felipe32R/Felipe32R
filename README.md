@@ -23,7 +23,8 @@ Here are some ideas to get you started:
 I really like the integration of the art design and front-end applications :art:
 
   :computer:  &nbsp; I'm actually on 5th period in **Computer Engineering**
- <br/> <img src="https://shields.braskam.com/v1/shields?name=javascript&format=circle&size=small"></img> &nbsp; Javascript is my favorite programming language
+  
+ <br/> Javascript is my favorite programming language <img src="https://shields.braskam.com/v1/shields?name=javascript&format=circle&size=small"></img> &nbsp;
  <br/> :pencil2: &nbsp; Skills/Studying: ReactJS, VueJS, Typescript
  <br/> :mag_right: &nbsp; Have interest in: React Native, NodeJS
  <br/>:link: &nbsp; [Linkedin](https://www.linkedin.com/in/felipe-ramalho-da-silva-442569197/)
