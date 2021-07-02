@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 ## Hi there 👋
 I really like the integration of the art design and front-end applications :art:
 
-  :computer:  &nbsp; I'm actually on 5th period in **Computer Engineering**
+  :computer:  &nbsp; I'm currently on 6th period in **Computer Engineering**
  <br/>  :yellow_heart: &nbsp; Javascript is my main programming language 
  <br/> :pencil2: &nbsp; Skills/Studying: React, Typescript
  <br/> :mag_right: &nbsp; Have interest in: React Native, NodeJS
