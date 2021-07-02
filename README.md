@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 
 # Felipe Ramalho
-#### Programmer/Designer student
+#### Front-End
 
 ## Hi there 👋
 I really like the integration of the art design and front-end applications :art:
