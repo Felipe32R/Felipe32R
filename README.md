@@ -22,7 +22,6 @@ Here are some ideas to get you started:
 ## Hi there 👋
 
   :computer:  &nbsp; I'm currently on 6th period in **Computer Engineering**
- <br/>  :yellow_heart: &nbsp; Javascript is my main programming language 
  <br/> :pencil2: &nbsp; Skills/Studying: React, Typescript
  <br/> :mag_right: &nbsp; Have interest in: React Native, NodeJS
  <br/>:link: &nbsp; [Linkedin](https://www.linkedin.com/in/felipe-ramalho-da-silva-442569197/)
