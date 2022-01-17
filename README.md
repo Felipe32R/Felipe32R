@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 
 # Felipe Ramalho
-#### Front-End
 
-## Hi there 👋
+
+### Hi there 🤙
 
   :computer:  &nbsp; I'm currently on 7th grade in **Computer Engineering**
  <br/> :pencil2: &nbsp; Skills/Studying: React, Typescript, React Native, NodeJS
