@@ -21,7 +21,6 @@ Here are some ideas to get you started:
 
 ## Hi there 👋
 
-  :computer:  &nbsp; I'm currently on 6th period in **Computer Engineering**
- <br/> :pencil2: &nbsp; Skills/Studying: React, Typescript
- <br/> :mag_right: &nbsp; Have interest in: React Native, NodeJS
+  :computer:  &nbsp; I'm currently on 7th grade in **Computer Engineering**
+ <br/> :pencil2: &nbsp; Skills/Studying: React, Typescript, React Native, NodeJS
  <br/>:link: &nbsp; [Linkedin](https://www.linkedin.com/in/felipe-ramalho-da-silva-442569197/)
