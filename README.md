@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 ### Hi there 🤙
 
-  :computer:  &nbsp; I'm currently on 8th semester in **Computer Engineering**
+  :computer: 
  <br/> :pencil2: &nbsp; Skills/Studying: React, Typescript, React Native, NodeJS
  <br/>:link: &nbsp; [Linkedin](https://www.linkedin.com/in/felipe-ramalho-da-silva-442569197/)
  
