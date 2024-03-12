@@ -19,9 +19,10 @@ Here are some ideas to get you started:
 # Felipe Ramalho
 
 
-### Hi there 🤙
+### Fullstack Developer
 
   :computer: 
- <br/> :pencil2: &nbsp; Skills: React, Typescript, React Native, NodeJS
+ <br/> :pencil2: &nbsp; Skills: React, Typescript, Nextjs, React Native, NodeJS, Nestjs
  <br/>:link: &nbsp; [Linkedin](https://www.linkedin.com/in/felipe-ramalho-da-silva-442569197/)
+ <br/> ✨Portfolio: https://felipe-ramalho.vercel.app/
  
