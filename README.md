@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 - :pencil2: I’m focusing on **Nextjs, React, React Native, Nuxt and Nestjs**
 
-- 📫 How to reach me **feliperamalhoy@gmail.com**
+- 📫 Feel free to send me a message **feliperamalhoy@gmail.com**
 
 - ✨ &nbsp; [Portfolio](https://felipe-ramalho.vercel.app/)
 
