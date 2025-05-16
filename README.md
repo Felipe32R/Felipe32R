@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi, I'm Felipe Ramalho</h1>
 <h3 align="center">A Fullstack developer with focus on Front End</h3>
 
-- 🔭 I’m currently working as a Front End Developer at @Codeminer42
+- 🔭 Currently working as a Front End Developer at @Codeminer42
 
 - ✨ &nbsp; [Portfolio](https://felipe-ramalho.vercel.app/)
 
